@@ -1,10 +1,5 @@
 # Performance Analysis of Type-1 and Type-2 Hypervisors
 
-[![Course](https://img.shields.io/badge/Course-Cloud%20Computing%20%2F%20Computer%20Networks-blue.svg)](#)
-[![Hypervisors](https://img.shields.io/badge/Hypervisors-Proxmox%20VE%20%7C%20VMware%20Workstation-orange.svg)](#)
-[![Benchmark](https://img.shields.io/badge/Benchmark-Sysbench%20CPU%2020k%20Primes-green.svg)](#)
-[![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](#)
-
 ---
 
 ## Executive Summary
